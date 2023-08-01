@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ![Harsh Agrawal Coding](/images/harsh_coding.png){: .align-left width="300px"} -->
+![Harsh Agrawal Coding](/images/home.jpg){: .align-left width="300px"}
 
 👨🏻‍💻 I'm Harsh Agrawal, a passionate Computer Science student specializing in Machine Learning and Computer Vision at Northeastern University.
 
