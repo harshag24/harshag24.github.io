@@ -27,7 +27,7 @@ These learnings fueled my hands-on experience, leading to diverse projects rangi
 As a Computer Science Master's student at Northeastern University, my aim is steadfast - to leverage AI and ML to drive positive change in the world.
 
 ## 👨🏻‍🔬 Professional Experience
-Previously, I've had the pleasure to intern at Pheme Software Pvt. Ltd as a Python Developer, where I contributed significantly towards the development of an AI-based online examination system.
+Currently, I work as a Data Science Co-op at Amazon Robotics. Previously, I've had the pleasure to intern at Pheme Software Pvt. Ltd as a Python Developer, where I contributed significantly towards the development of an AI-based online examination system.
 
 
 ## 📚 Sharing and Learning
