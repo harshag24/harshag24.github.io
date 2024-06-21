@@ -9,33 +9,44 @@ redirect_from:
 ---
 
 <!-- ![Harsh Agrawal Coding](/images/home.jpg){: .align-left width="300px"} -->
+👋 Hi, I'm Harsh Agrawal, a passionate Computer Science graduate student at Northeastern University, specializing in Machine Learning and Computer Vision.
 
-👨🏻‍💻 I'm Harsh Agrawal, a passionate Computer Science student specializing in Machine Learning and Computer Vision at Northeastern University.
+### 🧠 My Passion for AI and Machine Learning
 
-🤖 I'm deeply passionate about the possibilities that Artificial Intelligence offers. From creating systems that improve online examination integrity to predicting heart failure using Machine Learning, my journey in AI is characterized by a constant quest for knowledge and innovation.
+My journey with computers began in 8th grade when I first started coding in Java. By the time I was in 10th grade, I had earned my certification and developed a deep love for the field of computer science. This passion led me to pursue a Bachelor's degree in Computer Engineering, where I immersed myself in numerous courses, ultimately choosing to specialize in Machine Learning (ML).
 
-🎯 **My Goal**
-My objective is to leverage the power of AI to develop practical solutions that positively impact lives. I'm always on the lookout for interesting challenges that push the boundaries of what AI can achieve.
+### 📚 Educational Endeavors
 
-## Personal Highlights
+My undergraduate studies were a transformative period, during which I created a variety of projects and published multiple papers in the field of ML. My dedication and hard work were recognized through publications in esteemed IEEE conferences. As a Kaggle Notebooks Expert, I have also enjoyed mentoring others, sharing my knowledge and helping to guide their journeys in Machine Learning and Computer Vision.
 
-## 🎓 Educational Endeavors
-My coding journey started at a young age and evolved significantly during my undergraduate studies in Computer Engineering. There, I was fascinated with AI and ML. I sought knowledge consistently, completing university courses and online certifications, each one deepening my expertise and passion for this field.
+Now, as I near the completion of my Master’s in Computer Science at Northeastern University, my focus remains steadfast: to leverage AI and ML to drive positive change and solve real-world problems. Relevant courses I've taken include Programming Design Paradigm, DBMS, Algorithms, Pattern Recognition and Computer Vision, and Machine Learning.
 
-These learnings fueled my hands-on experience, leading to diverse projects ranging from AI-based examination systems to disease detection pipelines. This work has been recognized through multiple publications in IEEE conferences.
+### 👨🏻‍💻 Professional Experience
 
-As a Computer Science Master's student at Northeastern University, my aim is steadfast - to leverage AI and ML to drive positive change in the world.
+Currently, I am working as a Data Science Co-op at Amazon Robotics, where I have applied my skills to develop complex data solutions and custom algorithms, significantly improving operational efficiencies. I designed a comprehensive downtime monitoring system for robotic arms using AWS Lambda and Athena, which successfully mapped 60% of occurrences. I also developed a system to classify and categorize support tickets, reducing backlog through custom clustering algorithms.
 
-## 👨🏻‍🔬 Professional Experience
-Currently, I work as a Data Science Co-op at Amazon Robotics. Previously, I've had the pleasure to intern at Pheme Software Pvt. Ltd as a Python Developer, where I contributed significantly towards the development of an AI-based online examination system.
+Previously, I interned at Pheme Software Pvt. Ltd as a Python Developer, where I contributed to the development of an AI-based online examination system that reduced cheating incidents by 20% and increased user engagement by 40%.
 
+### 🌟 Project Highlights
+  - Developed a framework using CNNs to classify EEG patterns indicative of harmful brain activity, achieving 81.92% accuracy with EfficientNetB2.
+  - Created an on-device Disaster Scene Parsing and Detection system, awarded 3rd prize at the 2nd Khoury Annual Project Pitch-A-thon.
+  - Implemented a Personalized GIF-based Reply Recommendation System, increasing prediction accuracy by 45% using the Large Language Model – Llama.
+  - Proposed a "One-vs-All" methodology for classifying cassava leaf diseases, achieving 85.64% accuracy and published the research on IEEE Xplore.
+  - Developed a heart failure prediction model using machine learning with an exploratory data analysis approach, achieving significant recognition in the 2021 International Conference on Intelligent Technologies.
+  - Designed a pneumonia detection system using image processing and deep learning techniques, showcased at the 2021 International Conference on Artificial Intelligence and Smart Systems.
 
-## 📚 Sharing and Learning
-I believe in the power of sharing knowledge. I am a proud Kaggle Notebooks Expert and have a penchant for mentoring others on their journey in the fields of Machine Learning and Computer Vision.
+### 🚀 Future Aspirations
 
-## 💡 Interesting Facts
-I'm as passionate about the mysteries of space as I am about AI. I love to unwind with music and enjoy a good gaming session.
+As I approach graduation in August, I am actively seeking full-time opportunities in Data Science, Machine Learning, and Computer Vision. My goal is to continue developing practical AI solutions that make a positive impact on the world.
 
+### 📚 Sharing and Learning
 
-## 💌 Get in Touch
-Interested in knowing more about my journey or discussing exciting opportunities? Don't hesitate to [contact me](mailto:agrawal.har@northeastern.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-agrawal) and [GitHub](https://github.com/HarshAgrawal). Looking forward to interacting with you!
+I believe in the power of community and knowledge sharing. As a proud Kaggle Notebooks Expert, I enjoy mentoring others and contributing to the field of AI through collaborative learning and innovation.
+
+### 🌌 Personal Interests
+
+Beyond my professional endeavors, I am fascinated by the mysteries of space and love to unwind with music and gaming.
+
+### 💌 Get in Touch
+
+I am always excited to connect with like-minded professionals and discuss new opportunities. Feel free to [contact me](mailto:agrawal.har@northeastern.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/harshagrawal24), [GitHub](https://github.com/harshag24), and [Google Scholar](https://scholar.google.com/citations?user=OjDoN7kAAAAJ&hl=en). I look forward to hearing from you!
