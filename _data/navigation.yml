@@ -5,6 +5,8 @@ main:
 
   # - title: "Portfolio"
   #   url: /portfolio/
+  - title: "Projects"
+    url: /portfolio/
   
   - title: "Publications"
     url: https://scholar.google.com/citations?user=OjDoN7kAAAAJ&hl=en

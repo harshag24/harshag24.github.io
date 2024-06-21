@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ![Harsh Agrawal Coding](/images/home.jpg){: .align-left width="300px"} -->
-👋 Hi, I'm Harsh Agrawal, a passionate Computer Science graduate student at Northeastern University, specializing in Machine Learning and Computer Vision.
+I'm Harsh Agrawal, a passionate Computer Science graduate student at Northeastern University, specializing in Machine Learning and Computer Vision.
 
 ### 🧠 My Passion for AI and Machine Learning
 
@@ -28,9 +28,8 @@ In the Fall of 2022, I worked as a Data Science Co-op at Amazon Robotics, where 
 Previously, I interned at Pheme Software Pvt. Ltd as a Python Developer, where I contributed to the development of an AI-based online examination system that reduced cheating incidents by 20% and increased user engagement by 40%.
 
 ### 🌟 Project Highlights
-  - Developed a framework using CNNs to classify EEG patterns indicative of harmful brain activity, achieving 81.92% accuracy with EfficientNetB2.
   - Created an on-device Disaster Scene Parsing and Detection system, awarded 3rd prize at the 2nd Khoury Annual Project Pitch-A-thon.
-  - Implemented a Personalized GIF-based Reply Recommendation System, increasing prediction accuracy by 45% using the Large Language Model – Llama.
+  - Implemented a Personalized GIF-based Reply Recommendation System, increasing prediction accuracy by 45% using transformers.
   - Proposed a "One-vs-All" methodology for classifying cassava leaf diseases, achieving 85.64% accuracy and published the research on IEEE Xplore.
   - Developed a heart failure prediction model using machine learning with an exploratory data analysis approach, achieving significant recognition in the 2021 International Conference on Intelligent Technologies.
   - Designed a pneumonia detection system using image processing and deep learning techniques, showcased at the 2021 International Conference on Artificial Intelligence and Smart Systems.
