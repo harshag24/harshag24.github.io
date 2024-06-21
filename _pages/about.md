@@ -23,7 +23,7 @@ Now, as I near the completion of my Master’s in Computer Science at Northeaste
 
 ### 👨🏻‍💻 Professional Experience
 
-Currently, I am working as a Data Science Co-op at Amazon Robotics, where I have applied my skills to develop complex data solutions and custom algorithms, significantly improving operational efficiencies. I designed a comprehensive downtime monitoring system for robotic arms using AWS Lambda and Athena, which successfully mapped 60% of occurrences. I also developed a system to classify and categorize support tickets, reducing backlog through custom clustering algorithms.
+In the Fall of 2022, I worked as a Data Science Co-op at Amazon Robotics, where I have applied my skills to develop complex data solutions and custom algorithms, significantly improving operational efficiencies. I designed a comprehensive downtime monitoring system for robotic arms using AWS Lambda and Athena, which successfully mapped 60% of occurrences. I also developed a system to classify and categorize support tickets, reducing backlog through custom clustering algorithms.
 
 Previously, I interned at Pheme Software Pvt. Ltd as a Python Developer, where I contributed to the development of an AI-based online examination system that reduced cheating incidents by 20% and increased user engagement by 40%.
 
