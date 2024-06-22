@@ -1,6 +1,6 @@
 ---
 title: "Transformative Approaches in EEG Analysis"
-excerpt: "Classifying harmful brain activity using deep learning models<br/> <img src='/images/eeg.jpeg' style='width: 25%;'>"
+excerpt: "Classifying harmful brain activity using deep learning models<br/> <img src='/images/eeg.jpeg'>"
 collection: portfolio
 ---
 
