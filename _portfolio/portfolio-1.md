@@ -1,6 +1,6 @@
 ---
 title: "Transformative Approaches in EEG Analysis"
-excerpt: "Classifying harmful brain activity using deep learning models<br/> <img src='/images/eeg.png'>"
+excerpt: "This project focuses on developing deep learning models for the classification of harmful brain activity patterns in EEG data from critically ill patients. By leveraging CNN architectures such as EfficientNetB2, MobileNetV3Large, ResNet V2, and DenseNet, we aim to improve the accuracy and efficiency of automated EEG analysis in neurocritical care settings."
 collection: portfolio
 ---
 
