@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏻 Hey there!"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,46 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ![Harsh Agrawal Coding](/images/home.jpg){: .align-left width="300px"} -->
-I’m Harsh Agrawal, a Software Engineer — Generative AI at Calfus with a Master’s in Computer Science from Northeastern University. I design and deploy large‑language‑model (LLM) systems that move from lab to production at scale.
+I'm Harsh Agrawal, a Software Engineer on AI Infrastructure at LinkedIn. I build the platforms behind production models — registries, publishing and compliance systems, distributed metadata, and agent workflows — so teams can trust lineage, governance, and operations at scale.
 
-### 🧠 My Passion for AI and Machine Learning
+I hold an M.S. in Computer Science from Northeastern University and a B.Tech in Computer Engineering from NMIMS, Mumbai.
 
-My journey with computers began in 8th grade when I first started coding in Java. By the time I was in 10th grade, I had earned my certification and developed a deep fascination for the field of computer science. This passion led me to pursue a Bachelor's degree in Computer Engineering, where I immersed myself in numerous courses, ultimately choosing to specialize in Machine Learning (ML).
+### What I work on
 
-### 📚 Educational Endeavors
+At **LinkedIn** (Software Engineer, AI Infrastructure; Sept 2025 – Present), I focus on the model platform layer:
 
-My undergraduate years in Computer Engineering at Narsee Monjee Institute of Management Studies (NMIMS) in Mumbai were a transformative period during which I built a variety of ML projects and published research. This work culminated in multiple papers presented at prestigious IEEE conferences. Having recently completed my Master’s in Computer Science at Northeastern University, my focus remains on leveraging AI and ML to drive positive change by solving real-world problems. During graduate school, I honed my skills through advanced coursework in areas such as Programming Design Paradigms, Database Management Systems, Algorithms, Pattern Recognition & Computer Vision, and Machine Learning.
+- **Model metadata registry as source of truth** — migrated the registry to a durable SoT covering 25K+ models and 125K+ versions with zero downtime, so platform teams can trust lineage, ownership, and version history.
+- **Model publishing & EU AI Act compliance** — built gRPC-backed publishing pipelines that encode compliance checks into the path from training artifact to production.
+- **LLM-agent compliance automation** — automated AI Act training-data compliance review with an LLM agent, collapsing week-plus manual audits to under a day while keeping human review in the loop.
+- **Data integrity at scale** — shipped integrity tooling that detects and repairs millions of corrupted or inconsistent metadata records.
 
-### 👨🏻‍💻 What I’m Building
+Previously at **Calfus** (Software Engineer — Generative AI), I built GenAI platform capabilities including Agent Foundry, Temporal workflows, Kubernetes, and GPU autoscaling so teams could launch durable agent workflows without reinventing orchestration.
 
-At Calfus, I'm building next‑generation generative‑AI tooling that empowers teams company‑wide to launch bespoke AI workflows as they need.
+Before that, at **BulkMagic** I owned recommender training and serving pipelines on Spark, Airflow, and Kubernetes — cutting pipeline latency ~40% and lifting deal uptake ~25%. In Fall 2023, as a Data Science Co-op at **Amazon Robotics**, I built downtime monitoring for robotic systems (AWS Lambda, Athena) and ticket-triage automation.
 
-Previously, I led recommender‑system R&D at BulkMagic, boosting deal uptake by 25% with transformer and graph‑based models, and cut pipeline latency 40% through Spark + Airflow optimization.
+### Skills
 
-In Fall 2023, I worked as a Data Science Co-op at Amazon Robotics, where I developed data-driven solutions to improve operational efficiency. I designed a downtime monitoring system for robotic arms using AWS Lambda and Athena, which identified the causes of 60% of downtime events and helped reduce downtime by 15%. I also built a model to automatically categorize support tickets by complexity using custom clustering algorithms, significantly streamlining the ticket triage process and reducing the backlog. 
+- **Platform & systems:** model registries & metadata SoT, publishing/compliance pipelines, gRPC services, distributed data integrity, agent orchestration (Temporal)
+- **Compute & data:** Kubernetes & GPU autoscaling, Apache Spark, Airflow, AWS (Lambda, Athena), production ML pipelines
+- **Languages & tooling:** Python, LLM agents, gRPC / service APIs, SQL
 
-Prior to that, I served as an AI Developer at DosBro Infotech in Mumbai, where I spearheaded multiple AI projects. I engineered a content-summarization pipeline using transformer models like BERT and T5 for a major media platform, achieving a ROUGE-L score of 0.88 and accelerating news turnaround by 45%. Additionally, I developed a computer vision system with YOLOv4 to detect brand logos in social media images, attaining 89% accuracy and reducing manual tagging efforts by 40%.
+### Education
 
-### 🌟 Selected Highlights
-  - Created an on-device disaster scene detection system, awarded 3rd prize at the 2nd Khoury College Project Pitch-a-thon.
-  - Engineered and fine-tuned transformer-based language models to interpret clinical progress notes, achieving a Macro F1 score of 0.78 in a challenging healthcare NLP task.
-  - Implemented a personalized GIF recommendation system using a multi-modal transformer model, achieving over 80% precision in suggesting contextually relevant replies.
-  - Proposed a “One-vs-All” approach for classifying cassava leaf diseases, achieving 85.64% accuracy and publishing the findings in IEEE Xplore.
-  - Designed a pneumonia detection system using image processing and deep learning, showcased at the 2021 IEEE International Conference on Artificial Intelligence and Smart Systems.
+- **M.S. Computer Science** — Northeastern University
+- **B.Tech Computer Engineering** — NMIMS, Mumbai
 
-### 🚀 Future Aspirations
+Earlier IEEE publications and applied ML projects shaped how I think about models; the work I ship now is the platform layer that makes those models operable, governable, and durable.
 
-I’m exploring agentic AI, retrieval‑augmented generation, and cost‑efficient LLM serving. The mission: ship robust, human‑centric AI products that scale to millions!
+### Get in touch
 
-### 📚 Sharing and Learning
-
-I believe in the power of community and knowledge sharing. As a proud Kaggle Notebooks Expert, I enjoy mentoring others and contributing to the field of AI through collaborative learning and innovation.
-
-### 🌌 Personal Interests
-
-Beyond my professional endeavors, I am fascinated by the mysteries of space and love to unwind with music and gaming.
-
-### 💌 Get in Touch
-
-I am always excited to connect with like-minded professionals and discuss new opportunities. Feel free to [contact me](mailto:agrawal.har@northeastern.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/harshagrawal24), and [GitHub](https://github.com/harshag24). Always learning, always building!
+Feel free to [email me](mailto:agrawal.har@northeastern.edu) or connect on [LinkedIn](https://www.linkedin.com/in/harshagrawal24) and [GitHub](https://github.com/harshag24). Resume: [PDF](/files/Harsh%20Agrawal%20Resume.pdf).

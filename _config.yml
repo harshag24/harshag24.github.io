@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Harsh's Homepage"
+title                    : "Harsh Agrawal"
 title_separator          : "-"
 name                     : &name "Harsh Agrawal"
-description              : &description "personal description"
+description              : &description "Software Engineer, AI Infrastructure — model registries, publishing & compliance, and agent platforms."
 url                      : https://harshag24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "harshag24/harshag24.github.io"
@@ -19,7 +19,6 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -82,12 +81,12 @@ analytics:
 author:
   name             : "Harsh Agrawal"
   avatar           : "Harsh_Agrawal.png"
-  bio              : "Multimodal ML Engineer"
-  location         : "Pleasanton, CA"
-  employer         : "Northeastern University"
+  bio              : "Software Engineer, AI Infrastructure"
+  location         : "Sunnyvale, CA"
+  employer         : "LinkedIn"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OjDoN7kAAAAJ&hl=en"
-  email            :
+  email            : "agrawal.har@northeastern.edu"
   researchgate     :  "https://www.researchgate.net/profile/Harsh-Agrawal-6" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
@@ -175,16 +174,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -209,15 +202,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -236,14 +220,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:

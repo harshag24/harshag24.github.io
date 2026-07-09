@@ -9,51 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+A downloadable PDF is available: [Harsh Agrawal Resume]({{ base_path }}/files/Harsh%20Agrawal%20Resume.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science, Northeastern University
+* B.Tech in Computer Engineering, NMIMS, Mumbai
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept 2025 – Present: Software Engineer, AI Infrastructure
+  * LinkedIn, Sunnyvale
+  * Model metadata registry as source of truth (25K+ models / 125K+ versions, zero downtime)
+  * Model publishing & EU AI Act compliance (gRPC)
+  * LLM-agent compliance automation (week+ → under a day)
+  * Data-integrity tooling across millions of metadata records
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Prior: Software Engineer — Generative AI
+  * Calfus
+  * Agent Foundry, Temporal workflows, Kubernetes, GPU autoscaling
+
+* Prior: Machine Learning Engineer
+  * BulkMagic
+  * Recommender training/serving on Spark, Airflow, Kubernetes (~40% latency reduction, ~25% deal uptake)
+
+* Fall 2023: Data Science Co-op
+  * Amazon Robotics
+  * Downtime monitoring (AWS Lambda, Athena); ticket triage automation
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Platform & systems: model registries & metadata SoT, publishing/compliance pipelines, gRPC, distributed data integrity, Temporal
+* Compute & data: Kubernetes, GPU autoscaling, Spark, Airflow, AWS
+* Languages & tooling: Python, LLM agents, gRPC / service APIs, SQL
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* See [Google Scholar](https://scholar.google.com/citations?user=OjDoN7kAAAAJ&hl=en)

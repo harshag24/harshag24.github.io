@@ -4,8 +4,7 @@ main:
     url: /portfolio/
 
   - title: "CV"
-    url: /files/Harsh Agrawal Resume.pdf
-    
+    url: /files/Harsh%20Agrawal%20Resume.pdf
+
   - title: "Publications"
     url: https://scholar.google.com/citations?user=OjDoN7kAAAAJ&hl=en
-  
