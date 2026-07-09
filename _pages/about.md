@@ -10,33 +10,11 @@ redirect_from:
 
 I'm Harsh Agrawal, a Software Engineer on AI Infrastructure at LinkedIn. I've been working on ML platform systems, including publishing and compliance, reliability tooling, and agent workflows, so teams can deploy and maintain production ML with less friction.
 
-I hold an M.S. in Computer Science from Northeastern University and a B.Tech in Computer Engineering from NMIMS, Mumbai.
+Most of what I do sits on the systems side of ML: making it easier to get experiments into production and keep them running. I care about workflows that feel steadier day to day, reliability you can reason about in production, and infrastructure that holds up under scale.
 
-### What I work on
+Before LinkedIn I worked on recommender pipelines, GenAI platform tooling, and robotics ops at BulkMagic, Calfus, and Amazon, mostly the same kind of work: making complicated systems easier to run in the real world. For what I've actually built, see [Projects](/portfolio/).
 
-At **LinkedIn** (Software Engineer, AI Infrastructure; Sept 2025 – Present), I've been working across the model platform:
-
-- **Model metadata registry** — migrated the registry to a durable source of truth covering 25K+ models and 125K+ versions with zero downtime, so teams have a reliable place for ownership and version history.
-- **Model publishing & EU AI Act compliance** — built gRPC-backed publishing pipelines that fold compliance checks into the path from training artifact to production.
-- **LLM-agent compliance automation** — automated AI Act training-data compliance review with an LLM agent, bringing week-plus manual audits down to under a day while keeping humans in the loop.
-- **Data integrity at scale** — shipped tooling that detects and repairs millions of corrupted or inconsistent metadata records.
-
-Previously at **Calfus** (Software Engineer — Generative AI), I built GenAI platform pieces including Agent Foundry, Temporal workflows, Kubernetes, and GPU autoscaling so teams could run durable agent workflows without reinventing orchestration.
-
-Before that, at **BulkMagic** I owned recommender training and serving pipelines on Spark, Airflow, and Kubernetes — cutting pipeline latency ~40% and lifting deal uptake ~25%. In Fall 2023, as a Data Science Co-op at **Amazon Robotics**, I built downtime monitoring for robotic systems (AWS Lambda, Athena) and ticket-triage automation.
-
-### Skills
-
-- **Platform & systems:** ML platforms, publishing & compliance pipelines, gRPC services, reliability tooling, agent orchestration (Temporal)
-- **Compute & data:** Kubernetes & GPU autoscaling, Apache Spark, Airflow, AWS (Lambda, Athena), production ML pipelines
-- **Languages & tooling:** Python, LLM agents, gRPC / service APIs, SQL
-
-### Education
-
-- **M.S. Computer Science** — Northeastern University
-- **B.Tech Computer Engineering** — NMIMS, Mumbai
-
-Earlier IEEE publications and applied ML projects are how I got into this space; these days I spend most of my time on the platform side of production ML.
+I have an M.S. from Northeastern and a B.Tech from NMIMS Mumbai. I still get excited when applied ML work makes it out of a notebook and into production.
 
 ### Get in touch
 
