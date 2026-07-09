@@ -1,0 +1,198 @@
+/* ==========================================================================
+   Light / dark theme toggle (ported from academicpages default theme)
+   ========================================================================== */
+
+:root {
+  --global-bg-color: #fff;
+  --global-text-color: #{$dark-gray};
+  --global-text-color-light: #{$light-gray};
+  --global-border-color: #{$lighter-gray};
+  --global-code-background-color: #fafafa;
+  --global-footer-bg-color: #{$lighter-gray};
+  --global-footer-border-color: #{$light-gray};
+  --global-link-color: #{$info-color};
+  --global-link-color-hover: #{mix(#000, $info-color, 25%)};
+  --global-link-color-visited: #{mix(#fff, $info-color, 25%)};
+  --global-masthead-link-color: #{$primary-color};
+  --global-masthead-link-color-hover: #{mix(#000, $primary-color, 25%)};
+  --global-nav-bg-color: #fff;
+  --global-surface-color: #fff;
+  --global-primary-color: #{$primary-color};
+}
+
+html[data-theme="dark"] {
+  --global-bg-color: #474747;
+  --global-text-color: #ffffff;
+  --global-text-color-light: #f3f3f3;
+  --global-border-color: #{$light-gray};
+  --global-code-background-color: #3a3a3a;
+  --global-footer-bg-color: #3a3a3a;
+  --global-footer-border-color: #{$light-gray};
+  --global-link-color: #0ea1c5;
+  --global-link-color-hover: #{mix(#000, #0ea1c5, 25%)};
+  --global-link-color-visited: #{mix(#fff, #0ea1c5, 25%)};
+  --global-masthead-link-color: #ffffff;
+  --global-masthead-link-color-hover: #0ea1c5;
+  --global-nav-bg-color: #474747;
+  --global-surface-color: #3a3a3a;
+  --global-primary-color: #0ea1c5;
+  color-scheme: dark;
+}
+
+html {
+  background-color: var(--global-bg-color);
+  color-scheme: light;
+}
+
+body {
+  background-color: var(--global-bg-color);
+  color: var(--global-text-color);
+}
+
+a {
+  color: var(--global-link-color);
+
+  &:visited {
+    color: var(--global-link-color-visited);
+  }
+
+  &:hover {
+    color: var(--global-link-color-hover);
+  }
+}
+
+.masthead {
+  background-color: var(--global-bg-color);
+  border-bottom-color: var(--global-border-color);
+}
+
+.greedy-nav {
+  background: var(--global-nav-bg-color);
+
+  a {
+    color: var(--global-masthead-link-color);
+
+    &:hover {
+      color: var(--global-masthead-link-color-hover);
+    }
+  }
+
+  button {
+    background-color: var(--global-primary-color);
+  }
+
+  .hidden-links {
+    background: var(--global-surface-color);
+    border-color: var(--global-border-color);
+  }
+}
+
+.page__footer {
+  background-color: var(--global-footer-bg-color);
+  border-top-color: var(--global-footer-border-color);
+  color: var(--global-text-color-light);
+}
+
+/* Sit beside nav tabs in the masthead (outside greedy overflow list) */
+.greedy-nav {
+  padding-right: 2.75rem;
+
+  button {
+    right: 2.5rem;
+  }
+
+  button.hidden + .hidden-links + .theme-toggle,
+  .theme-toggle {
+    right: 0;
+  }
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+  z-index: 11;
+
+  a {
+    display: block;
+    margin: 0;
+    padding: 0.5rem 0.4rem;
+    color: var(--global-masthead-link-color);
+    cursor: pointer;
+    text-decoration: none;
+
+    &:hover,
+    &:focus,
+    &:visited {
+      color: var(--global-masthead-link-color-hover);
+    }
+  }
+
+  .fa,
+  .fas {
+    font-size: 1.05rem;
+    line-height: 1;
+  }
+}
+
+html[data-theme="dark"] {
+  .page,
+  .page__content,
+  .archive,
+  .sidebar,
+  .author__urls-wrapper button,
+  .nav__list .nav__items,
+  .toc,
+  .notice,
+  pre,
+  code,
+  kbd,
+  .highlighter-rouge,
+  .highlight,
+  table,
+  .btn--inverse,
+  .modal,
+  .author__urls {
+    color: var(--global-text-color);
+  }
+
+  .author__urls-wrapper button,
+  .nav__list .nav__items,
+  .toc,
+  .btn--inverse,
+  .modal,
+  .author__urls,
+  select,
+  textarea,
+  input[type="text"],
+  input[type="email"],
+  input[type="url"],
+  input[type="password"],
+  input[type="search"] {
+    background-color: var(--global-surface-color);
+    border-color: var(--global-border-color);
+    color: var(--global-text-color);
+  }
+
+  pre,
+  code,
+  .highlighter-rouge .highlight,
+  .highlight {
+    background-color: var(--global-code-background-color);
+  }
+
+  .social-icons .fa {
+    color: var(--global-text-color);
+  }
+
+  .page__hero--overlay .page__title,
+  .page__hero--overlay .page__meta,
+  .page__hero--overlay .page__lead {
+    color: #fff;
+  }
+}
