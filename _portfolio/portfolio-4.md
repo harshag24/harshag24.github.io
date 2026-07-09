@@ -4,9 +4,9 @@ excerpt: "LinkedIn — data-integrity tooling that detects and repairs millions 
 collection: portfolio
 ---
 
-Shipped a **data-integrity** layer that detects and repairs **millions** of corrupted or inconsistent metadata records — protecting downstream consumers of the registry from silent drift.
+I shipped **data-integrity** tooling that detects and repairs **millions** of corrupted or inconsistent metadata records, so downstream systems aren't quietly reading bad state.
 
 ### Focus
 - Detection and repair of inconsistent metadata
 - Scale across millions of records
-- Reliability for registry consumers
+- Reliability for platform consumers

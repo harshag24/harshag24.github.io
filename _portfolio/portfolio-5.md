@@ -1,10 +1,10 @@
 ---
 title: "Agent Foundry on Temporal & Kubernetes"
-excerpt: "Calfus — GenAI platform capabilities including Agent Foundry, Temporal workflows, Kubernetes, and GPU autoscaling."
+excerpt: "Calfus — GenAI platform work including Agent Foundry, Temporal workflows, Kubernetes, and GPU autoscaling."
 collection: portfolio
 ---
 
-At Calfus, I built GenAI platform capabilities — **Agent Foundry**, **Temporal** workflows, **Kubernetes**, and **GPU autoscaling** — so teams can launch durable agent workflows without reinventing orchestration and capacity management.
+At Calfus, I built GenAI platform pieces — **Agent Foundry**, **Temporal** workflows, **Kubernetes**, and **GPU autoscaling** — so teams could run durable agent workflows without reinventing orchestration and capacity management.
 
 ### Focus
 - Durable agent orchestration (Temporal)
